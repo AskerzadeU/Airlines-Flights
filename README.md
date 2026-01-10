@@ -27,18 +27,14 @@ demonstrates practical usage of Python for data exploration and visualization.
 
 ---
 
-## Key Questions
+## Key Business Questions Addressed
 There are multiple questions given that we answered with Python :
-Q.1 What are the airlines in the dataset, accompanied by their frequencies?
-Q.2. Show Bar Graphs representing the Departure Time & Arrival Time.
-Q.3. Show Bar Graphs representing the Source City & Destination City.
-Q.4. Does price varies with airlines ?
-Q.5. Does ticket price change based on the departure time and arrival time?
-Q.6. How the price changes with change in Source and Destination?
-Q.7. How is the price affected when tickets are bought in just 1 or 2 days before departure?
-Q.8. How does the ticket price vary between Economy and Business class?
-Q.9. What will be the Average Price of Vistara airline for a flight from Delhi to Hyderabad in Business Class ?
-
+How do flight prices vary across different airlines?
+What is the impact of departure and arrival times on ticket prices?
+How do source and destination cities influence pricing?
+How does ticket price differ by class (Economy vs Business)?
+How do stops and booking time affect flight duration and price?
+What is the expected price for a specific airline, route, and class?
 
 ---
 
